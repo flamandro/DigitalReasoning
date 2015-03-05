@@ -23,10 +23,10 @@ public class DigitalReasoningTest {
         String output_3 = "/home/administrator/Downloads/programming_test/NLP_test/nlp_data";
         
         //Test 1
-        dg.processSentence(input_1_2, output_1_2_3);
+//        dg.processSentence(input_1_2, output_1_2_3);
         
         //Test 2
-//        dg.processSentenceAndExtractProperNouns(input_1_2, output_1_2_3);
+        dg.processSentenceAndExtractProperNouns(input_1_2, output_1_2_3);
         
         //Test3
 //        dgp.parallelProcessZipFolder(input_3, output_3, output_1_2_3);
