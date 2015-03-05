@@ -26,9 +26,9 @@ public class DigitalReasoningTest {
 //        dg.processSentence(input_1_2, output_1_2_3);
         
         //Test 2
-        dg.processSentenceAndExtractProperNouns(input_1_2, output_1_2_3);
+//        dg.processSentenceAndExtractProperNouns(input_1_2, output_1_2_3);
         
         //Test3
-//        dgp.parallelProcessZipFolder(input_3, output_3, output_1_2_3);
+        dgp.parallelProcessZipFolder(input_3, output_3, output_1_2_3);
     }
 }
