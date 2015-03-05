@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<File file_name = "d03.txt">
+		<Sentences>
+			<Sentence_1>
+				<Sentence>Montgomery Castle is a stone masonry castle looking over the town of Montgomery in Powys, Wales.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Montgomery</ProperNoun>
+					<ProperNoun>Montgomery Castle</ProperNoun>
+					<ProperNoun>Powys</ProperNoun>
+					<ProperNoun>Wales</ProperNoun>
+				</ProperNouns>
+			</Sentence_1>
+			<Sentence_2>
+				<Sentence> It is one of many Norman castles on the border between Wales and England.</Sentence>
+				<ProperNouns>
+					<ProperNoun>England</ProperNoun>
+					<ProperNoun>Norman</ProperNoun>
+					<ProperNoun>Wales</ProperNoun>
+				</ProperNouns>
+			</Sentence_2>
+			<Sentence_3>
+				<Sentence> The original castle was built at the order of Roger de Montgomery, earl of Shrewsbury sometime between 1071 and 1074. On the rebellion of his son Robert of Belleme in 1102, the castle was given to Baldwin de Boulers.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Baldwin</ProperNoun>
+					<ProperNoun>Belleme</ProperNoun>
+					<ProperNoun>Boulers</ProperNoun>
+					<ProperNoun>Montgomery</ProperNoun>
+					<ProperNoun>Robert</ProperNoun>
+					<ProperNoun>Roger</ProperNoun>
+					<ProperNoun>Shrewsbury</ProperNoun>
+				</ProperNouns>
+			</Sentence_3>
+			<Sentence_4>
+				<Sentence> In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted Llywelyn ap Gruffudd the title of Prince of Wales.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Gruffudd</ProperNoun>
+					<ProperNoun>King Henry III</ProperNoun>
+					<ProperNoun>Llywelyn</ProperNoun>
+					<ProperNoun>Montgomery</ProperNoun>
+					<ProperNoun>Prince</ProperNoun>
+					<ProperNoun>Wales</ProperNoun>
+				</ProperNouns>
+			</Sentence_4>
+			<Sentence_5>
+				<Sentence> After 1295 and the final Welsh War of the thirteenth century the castle became more of a military backwater and prison than a front line fortress.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Welsh War</ProperNoun>
+				</ProperNouns>
+			</Sentence_5>
+		</Sentences>
+	</File>

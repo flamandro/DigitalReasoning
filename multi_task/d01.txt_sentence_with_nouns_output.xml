@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<File file_name = "d01.txt">
+		<Sentences>
+			<Sentence_1>
+				<Sentence>Euclid's Elements has been referred to as the most successful and influential textbook ever written.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Euclids Elements</ProperNoun>
+				</ProperNouns>
+			</Sentence_1>
+			<Sentence_2>
+				<Sentence> First set in type in Venice in 1482, it is one of the very earliest mathematical works to be printed after the invention of the printing press and was estimated by Carl Benjamin Boyer to be second only to the Bible in the number of editions published, with the number reaching well over one thousand.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Bible</ProperNoun>
+					<ProperNoun>Carl Benjamin Boyer</ProperNoun>
+					<ProperNoun>First</ProperNoun>
+					<ProperNoun>Venice</ProperNoun>
+				</ProperNouns>
+			</Sentence_2>
+			<Sentence_3>
+				<Sentence> For centuries, knowledge of at least part of the Elements was required of all students.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Elements</ProperNoun>
+				</ProperNouns>
+			</Sentence_3>
+			<Sentence_4>
+				<Sentence> Not until the 20th century, by which time its content was universally taught through other school textbooks, did it cease to be considered something all educated people had read.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_4>
+		</Sentences>
+	</File>

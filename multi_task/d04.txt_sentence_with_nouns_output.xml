@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<File file_name = "d04.txt">
+		<Sentences>
+			<Sentence_1>
+				<Sentence>The Antikythera mechanism is an ancient analog computer designed to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the cycles of Olympic Games.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Antikythera</ProperNoun>
+					<ProperNoun>Olympic Games</ProperNoun>
+				</ProperNouns>
+			</Sentence_1>
+			<Sentence_2>
+				<Sentence>Found housed in a 340 × 180 × 90 mm wooden box, the device is a complex clockwork mechanism composed of at least 30 meshing bronze gears.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Found</ProperNoun>
+				</ProperNouns>
+			</Sentence_2>
+			<Sentence_3>
+				<Sentence> Its remains were found as 82 separate fragments, of which only seven contain any gears or significant inscriptions.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_3>
+			<Sentence_4>
+				<Sentence> The largest gear is approximately 140 mm in diameter.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_4>
+			<Sentence_5>
+				<Sentence>The artifact was recovered in 1901 from the Antikythera shipwreck off the Greek island of Antikythera.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Antikythera</ProperNoun>
+					<ProperNoun>Greek</ProperNoun>
+				</ProperNouns>
+			</Sentence_5>
+			<Sentence_6>
+				<Sentence> Believed to have been designed and constructed by Greek scientists, the instrument has been dated either between 150 to 100 BC or, according to a more recent view, at 205 BC.</Sentence>
+				<ProperNouns>
+					<ProperNoun>BC</ProperNoun>
+					<ProperNoun>Believed</ProperNoun>
+					<ProperNoun>Greek</ProperNoun>
+				</ProperNouns>
+			</Sentence_6>
+		</Sentences>
+	</File>

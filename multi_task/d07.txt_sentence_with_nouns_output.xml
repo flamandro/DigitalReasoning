@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<File file_name = "d07.txt">
+		<Sentences>
+			<Sentence_1>
+				<Sentence>Sun Microsystems, Inc. was a company that sold computers, computer components, computer software, and information technology services and that created the Java programming language and the Network File System (NFS).</Sentence>
+				<ProperNouns>
+					<ProperNoun>Java</ProperNoun>
+					<ProperNoun>Network File System NFS</ProperNoun>
+					<ProperNoun>Sun Microsystems</ProperNoun>
+				</ProperNouns>
+			</Sentence_1>
+			<Sentence_2>
+				<Sentence> Sun significantly evolved several key computing technologies, among them Unix, RISC processors, thin client computing, and virtualized computing.</Sentence>
+				<ProperNouns>
+					<ProperNoun>RISC</ProperNoun>
+					<ProperNoun>Sun</ProperNoun>
+					<ProperNoun>Unix</ProperNoun>
+				</ProperNouns>
+			</Sentence_2>
+			<Sentence_3>
+				<Sentence> Sun was founded on February 24, 1982.</Sentence>
+				<ProperNouns>
+					<ProperNoun>February</ProperNoun>
+					<ProperNoun>Sun</ProperNoun>
+				</ProperNouns>
+			</Sentence_3>
+			<Sentence_4>
+				<Sentence>On January 27, 2010, Sun was acquired by Oracle Corporation for US $7.4 billion.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Oracle Corporation</ProperNoun>
+					<ProperNoun>Sun</ProperNoun>
+				</ProperNouns>
+			</Sentence_4>
+			<Sentence_5>
+				<Sentence> The following month, Sun was merged with Oracle USA, Inc. to become Oracle America, Inc.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Oracle America</ProperNoun>
+					<ProperNoun>Oracle USA</ProperNoun>
+					<ProperNoun>Sun</ProperNoun>
+				</ProperNouns>
+			</Sentence_5>
+		</Sentences>
+	</File>

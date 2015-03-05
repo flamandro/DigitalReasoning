@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<File file_name = "d08.txt">
+		<Sentences>
+			<Sentence_1>
+				<Sentence>Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans Neil Armstrong and Buzz Aldrin, on July 20, 1969. Armstrong became the first to step onto the lunar surface six hours later.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Americans Neil Armstrong</ProperNoun>
+					<ProperNoun>Apollo</ProperNoun>
+					<ProperNoun>Armstrong</ProperNoun>
+					<ProperNoun>Buzz Aldrin</ProperNoun>
+					<ProperNoun>Moon</ProperNoun>
+				</ProperNouns>
+			</Sentence_1>
+			<Sentence_2>
+				<Sentence> Armstrong spent about two and a half hours outside the spacecraft, Aldrin slightly less, and together they collected 47.5 pounds (21.5 kg) of lunar material for return to Earth.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Aldrin</ProperNoun>
+					<ProperNoun>Armstrong</ProperNoun>
+					<ProperNoun>Earth</ProperNoun>
+				</ProperNouns>
+			</Sentence_2>
+			<Sentence_3>
+				<Sentence> The third member of the mission, Michael Collins, piloted the command spacecraft alone in lunar orbit until Armstrong and Aldrin returned to it just under a day later for the trip back to Earth.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Aldrin</ProperNoun>
+					<ProperNoun>Armstrong</ProperNoun>
+					<ProperNoun>Earth</ProperNoun>
+					<ProperNoun>Michael Collins</ProperNoun>
+				</ProperNouns>
+			</Sentence_3>
+		</Sentences>
+	</File>

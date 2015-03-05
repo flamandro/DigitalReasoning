@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<File file_name = "d10.txt">
+		<Sentences>
+			<Sentence_1>
+				<Sentence>James Clerk Maxwell </Sentence>
+				<ProperNouns>
+					<ProperNoun>James Clerk Maxwell</ProperNoun>
+				</ProperNouns>
+			</Sentence_1>
+			<Sentence_2>
+				<Sentence>was a Scottish mathematical physicist.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Scottish</ProperNoun>
+				</ProperNouns>
+			</Sentence_2>
+			<Sentence_3>
+				<Sentence> His most notable achievement was to formulate the classical theory of electromagnetic radiation, bringing together for the first time electricity, magnetism, and light as manifestations of the same phenomenon.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_3>
+			<Sentence_4>
+				<Sentence> Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by        </Sentence>
+				<ProperNouns>
+					<ProperNoun>Maxwells</ProperNoun>
+				</ProperNouns>
+			</Sentence_4>
+			<Sentence_5>
+				<Sentence>Isaac Newton... Maxwell demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Isaac Newton Maxwell</ProperNoun>
+				</ProperNouns>
+			</Sentence_5>
+			<Sentence_6>
+				<Sentence> Maxwell proposed that light is an undulation in the same medium that is the cause of electric and magnetic phenomena.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Maxwell</ProperNoun>
+				</ProperNouns>
+			</Sentence_6>
+			<Sentence_7>
+				<Sentence>The unification     of light and electrical phenomena led to the prediction of the existence of radio waves.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_7>
+			<Sentence_8>
+				<Sentence> His discoveries helped usher in the era of modern physics, laying the foundation for such fields as special relativity and quantum mechanics.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_8>
+			<Sentence_9>
+				<Sentence> His contributions to the science are considered by many to be of the same magnitude as those of Isaac Newton and Albert Einstein.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Albert Einstein</ProperNoun>
+					<ProperNoun>Isaac Newton</ProperNoun>
+				</ProperNouns>
+			</Sentence_9>
+			<Sentence_10>
+				<Sentence> QED</Sentence>
+				<ProperNouns>
+					<ProperNoun>QED</ProperNoun>
+				</ProperNouns>
+			</Sentence_10>
+		</Sentences>
+	</File>

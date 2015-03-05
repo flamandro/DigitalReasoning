@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<File file_name = "d05.txt">
+		<Sentences>
+			<Sentence_1>
+				<Sentence>Horseshoe crabs are marine arthropods that live primarily in and around shallow ocean waters on soft sandy or muddy bottoms.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Horseshoe</ProperNoun>
+				</ProperNouns>
+			</Sentence_1>
+			<Sentence_2>
+				<Sentence> They occasionally come onto shore to mate.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_2>
+			<Sentence_3>
+				<Sentence> They are commonly used as bait and in fertilizer.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_3>
+			<Sentence_4>
+				<Sentence> In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in Japan and overharvesting along the east coast of North America.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Japan</ProperNoun>
+					<ProperNoun>North America</ProperNoun>
+				</ProperNouns>
+			</Sentence_4>
+			<Sentence_5>
+				<Sentence>Because of their origin 450 million years ago (Mya), horseshoe crabs are considered living fossils.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Mya</ProperNoun>
+				</ProperNouns>
+			</Sentence_5>
+			<Sentence_6>
+				<Sentence> Horseshoe crabs resemble crustaceans, but belong to a separate subphylum, and are closely related to arachnids.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Horseshoe</ProperNoun>
+				</ProperNouns>
+			</Sentence_6>
+			<Sentence_7>
+				<Sentence> The earliest horseshoe crab fossils are found in strata from the late Ordovician period, roughly 450 Mya.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Mya</ProperNoun>
+					<ProperNoun>Ordovician</ProperNoun>
+				</ProperNouns>
+			</Sentence_7>
+		</Sentences>
+	</File>

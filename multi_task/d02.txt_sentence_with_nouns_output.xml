@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<File file_name = "d02.txt">
+		<Sentences>
+			<Sentence_1>
+				<Sentence>The Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm is an iterative method for solving unconstrained nonlinear optimization problems.</Sentence>
+				<ProperNouns>
+					<ProperNoun>Broyden–Fletcher–Goldfarb–Shanno BFGS</ProperNoun>
+				</ProperNouns>
+			</Sentence_1>
+			<Sentence_2>
+				<Sentence> The BFGS method approximates Newton's method, a class of hill-climbing optimization techniques that seeks a stationary point of a (preferably twice continuously differentiable) function.</Sentence>
+				<ProperNouns>
+					<ProperNoun>BFGS</ProperNoun>
+					<ProperNoun>Newtons</ProperNoun>
+				</ProperNouns>
+			</Sentence_2>
+			<Sentence_3>
+				<Sentence> For such problems, a necessary condition for optimality is that the gradient be zero.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_3>
+			<Sentence_4>
+				<Sentence> Newton's method and the BFGS methods are not guaranteed to converge unless the function has a quadratic Taylor expansion near an optimum.</Sentence>
+				<ProperNouns>
+					<ProperNoun>BFGS</ProperNoun>
+					<ProperNoun>Newtons</ProperNoun>
+					<ProperNoun>Taylor</ProperNoun>
+				</ProperNouns>
+			</Sentence_4>
+			<Sentence_5>
+				<Sentence> These methods use both the first and second derivatives of the function.</Sentence>
+				<ProperNouns>
+				</ProperNouns>
+			</Sentence_5>
+			<Sentence_6>
+				<Sentence> However, BFGS has proven to have good performance even for non-smooth optimizations.</Sentence>
+				<ProperNouns>
+					<ProperNoun>BFGS</ProperNoun>
+				</ProperNouns>
+			</Sentence_6>
+		</Sentences>
+	</File>
